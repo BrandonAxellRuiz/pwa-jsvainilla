@@ -8,7 +8,6 @@
   "orientation": "any",
   "display": "standalone",
   "start_url": "./?utm=homescreen",
-  "scope": "./",
   "lang": "es-MX",
   "icons": [
     {
