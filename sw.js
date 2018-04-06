@@ -1,10 +1,8 @@
   const CACHE_NAME = 'Cache-Names-V1',
 
   urlsToCache = [
-    '/',
-    './',
-    './?utm=homescreen',
-    './sw.js',
+    '?utm=homescreen',
+    'sw.js',
     'index.html',
     'js/script.js',
     'css/style.css',
