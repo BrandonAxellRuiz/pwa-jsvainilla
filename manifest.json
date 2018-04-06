@@ -1,5 +1,4 @@
- 
-{
+ {
   "name": "Oxxo Parts",
   "short_name": "Oxxo Parts",
   "description": "Aplicacion para llevar el contro de piezas.",
@@ -7,7 +6,7 @@
   "background_color": "#fff",
   "orientation": "any",
   "display": "standalone",
-  "start_url": "/",
+  "start_url": "index.html",
   "lang": "es-MX",
   "icons": [
     {
