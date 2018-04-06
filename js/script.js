@@ -4,7 +4,7 @@
   //install service worker and validate count with serviceWorker
   if('serviceWorker' in navigator) {
     w.addEventListener('load', function() {
-      n.serviceWorker.register('sw.js')
+      n.serviceWorker.register('../sw.js')
         .then(function(registration) {
         // Registration was successful
           c('ServiceWorker registration successful with scope: ', registration.scope)
