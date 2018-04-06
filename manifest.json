@@ -1,3 +1,5 @@
+  //"start_url": "/?utm=homescreen",
+    //"scope": "/",
 {
   "name": "Oxxo Parts",
   "short_name": "Oxxo Parts",
@@ -6,9 +8,7 @@
   "background_color": "#fff",
   "orientation": "any",
   "display": "standalone",
-  //"start_url": "/?utm=homescreen",
-  "start_url": "/",
-  //"scope": "/",
+  "start_url": "index.html",
   "lang": "es-MX",
   "icons": [
     {
