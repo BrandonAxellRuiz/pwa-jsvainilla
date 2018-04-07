@@ -6,7 +6,7 @@
   "background_color": "#fff",
   "orientation": "any",
   "display": "standalone",
-  "start_url": "https://brandonaxellruiz.github.io/pwa-jsvainilla/index.html?utm=homescreen",
+  "start_url": "https://brandonaxellruiz.github.io/pwa-jsvainilla/index.html",
   "scope": "/",
   "lang": "es-MX",
   "icons": [
