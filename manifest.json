@@ -5,7 +5,7 @@
   "theme_color": "#fb0b0b",
   "background_color": "#fff",
   "display": "standalone",
-  "start_url": "/index.html?utm=homescreen/",
+  "start_url": "https://brandonaxellruiz.github.io/pwa-jsvainilla/index.html?utm=homescreen",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
