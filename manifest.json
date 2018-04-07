@@ -1,5 +1,5 @@
  {
-    "name": "PWA",
+  "name": "PWA with Javacript Vanillia",
   "short_name": "PWA",
   "description": "Progressive Web App.",
   "theme_color": "#fb0b0b",
