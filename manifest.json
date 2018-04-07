@@ -1,11 +1,14 @@
  {
-  "name": "Oxxo Parts",
-  "short_name": "Oxxo Parts",
-  "description": "Aplicacion para llevar el contro de piezas.",
+    "name": "PWA",
+  "short_name": "PWA",
+  "description": "Progressive Web App.",
   "theme_color": "#fb0b0b",
   "background_color": "#fff",
+  "orientation": "any",
   "display": "standalone",
   "start_url": "https://brandonaxellruiz.github.io/pwa-jsvainilla/index.html?utm=homescreen",
+  "scope": "/",
+  "lang": "es-MX",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
