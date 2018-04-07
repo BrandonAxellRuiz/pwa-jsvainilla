@@ -6,7 +6,7 @@
   "background_color": "#fff",
   "orientation": "any",
   "display": "standalone",
-  "start_url": "/?utm=homescreen",
+  "start_url": "/index.html?utm=homescreen",
   "scope": "/",
   "lang": "es-MX",
   "icons": [
